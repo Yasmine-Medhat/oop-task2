@@ -1,0 +1,9 @@
+first the difference between abstract class & interface is the abstract class must have at least one abstract method but interface must have all methods are abstract methods
+-----------------------------------------------------------------------------------------------
+second magic methods
+--------------------------
+1/it make the accessability of private proberties more easy
+2/will called directely as soon as a creation of an object is done
+3/for example _construct,_distruct,_get ,_set etc
+
+
